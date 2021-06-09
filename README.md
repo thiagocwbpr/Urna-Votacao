@@ -15,3 +15,10 @@ Poderá criar também uma interface gráfica em outra linguagem para uma simula�
 
 ### Linguagem desenvolvida
 Esse projeto é uma atividade de lógica de programação solicitado pela faculdade, portanto foi utilizado o Portugol Studio para desenvolvimento do mesmo, porém analisando a semântica do código, o mesmo pode ser implementado em qualquer linguagem.
+
+### Observações
+- O projeto foi desenvolvido em plataforma **Windows**, porém foi testado em **Linux-Mint cinnamon**.
+- Se caso estiver utilizando Linux, a **função system("cls")** deve ser alterada para **system("clear")**.
+- Foi utilizado a função **setlocale**, para utilização de acentos do portugues no código.
+- Se caso estiver utilizando Linux, verifique se a função **setlocate** irá ter as funções ativadas.
+- O mesmo pode ser compilado diretamente pelo **terminal linux**, sem a necessidade de utilização de uma IDE.
