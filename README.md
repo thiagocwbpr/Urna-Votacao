@@ -14,7 +14,7 @@ Quem tiver interesse em dar continuação no código, poderá criar uma função
 Poderá criar também uma interface gráfica em outra linguagem para uma simulação mais realista sobre como funciona uma votação para eleições.
 
 ### Linguagem desenvolvida
-Esse projeto é uma atividade de lógica de programação solicitado pela faculdade, portanto foi utilizado o Portugol Studio para desenvolvimento do mesmo, porém analisando a semântica do código, o mesmo pode ser implementado em qualquer linguagem.
+Esse projeto é uma atividade de lógica de programação solicitado pela faculdade neste primeiro semestre. Portanto foi desenvolvido em **linguagem C**. porém analisando a semântica do código, **esse projeto pode ser realizado em qualquer outra linguagem.**
 
 ### Observações
 - O projeto foi desenvolvido em plataforma **Windows**, porém foi testado em **Linux-Mint cinnamon**.
